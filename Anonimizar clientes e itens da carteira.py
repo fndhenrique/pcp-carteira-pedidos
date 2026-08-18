@@ -28,7 +28,7 @@ def anonimizar_planilha_faker(caminho_arquivo_entrada, caminho_arquivo_saida):
     df.to_excel(caminho_arquivo_saida, index=False)
     
 # Caminhos
-arquivo_original = r'C:\Users\shenr\Downloads\dados\Excel\Carteira BEMA ST-08.xlsx' 
+arquivo_original = r'C:\Users\shenr\Downloads\dados\Excel\Carteira.xlsx' 
 arquivo_novo = r'C:\Users\shenr\Downloads\dados\Excel\Carteira Faker.xlsx'
 
 

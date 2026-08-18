@@ -1,4 +1,5 @@
 # 🏭 Visão Geral da Produção (End-to-End: Python + Power BI)
+<img width="1316" height="734" alt="VISÃO GERAL DA PRODUÇÃO" src="https://github.com/user-attachments/assets/e58fe8e0-8b1d-46da-a8ea-bc8d5f8edc40" />
 
 
 ## 📌 Visão Geral do Projeto
@@ -29,8 +30,14 @@ Os dados processados alimentam um painel interativo (Dark Theme) focado em **ate
 
 * **KPIs Principais:** Acompanhamento imediato de Progresso da Produção (%), Total Produzido, Saldo a Produzir (Backlog) e Rendimento Metálico Global.
 * **Acompanhamento de Carteira:** Gráfico combinado de série temporal cruzando o que foi pedido vs. o que foi efetivamente produzido dentro das datas de entrega.
+<img width="552" height="249" alt="Captura de tela 2026-08-18 143145" src="https://github.com/user-attachments/assets/85edaf02-0117-48d4-888d-087b55785c2f" />
+
 * **Raio-X da Galhada (Scatter Plot):** Cruzamento da *Média de Peso da Peça* com o *Rendimento Metálico* por SKU, permitindo à Engenharia de Processos identificar rapidamente moldes críticos de alto volume que consomem energia térmica em excesso.
+<img width="630" height="252" alt="RENDIMENTO POR PESO DE PEÇA" src="https://github.com/user-attachments/assets/606fb5ea-ddf1-462e-8d35-c16ed9c6e2a1" />
+
 * **Ofensores de Sucata por Cliente:** Gráfico 100% empilhado apontando quais clientes possuem o pior mix de rendimento, impactando a margem de lucro da operação.
+<img width="550" height="280" alt="PROPORÇÃO PEÇA VS  GALHADA" src="https://github.com/user-attachments/assets/b22920b3-bc3c-445b-b473-af398ef303b2" />
+
 
 ---
 
